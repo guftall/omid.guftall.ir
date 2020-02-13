@@ -137,7 +137,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "https://static5.cloob.com//public/user_data/album_photo/3405/10213333-b.jpg"
 
 ###########
 # Contact #
